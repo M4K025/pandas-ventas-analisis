@@ -47,7 +47,7 @@ pandas-ventas-analisis/
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/TU_USUARIO/pandas-ventas-analisis.git
+git clone https://github.com/M4K025/pandas-ventas-analisis.git
 cd pandas-ventas-analisis
 ```
 
